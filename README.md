@@ -31,9 +31,9 @@ this wouldn't be possible without
 
 ## __MODDING GUIDE__  
 
-  this game is super modable! take the pmp and load it inside the penguinmod web editor  
-  create a fork of the repo, inside the editor at the top change this link to your fork  
-  you can now directly change code in the editor or change config files to add custom crap!! :>  
+  this game is super modable! take the pmp from releases/currentRelease and load it inside the penguinmod web editor https://studio.penguinmod.com/editor.html
+  create a fork of the repo, inside the editor at the top of the block stack change the "repositoryOwner" and "repositoryName" variables link to your fork,  
+  You can now directly change code in the editor or change config files in your fork to add custom crap!! :>  
 
 
 
