@@ -10,6 +10,7 @@ Scratch>Turbowarp>PenguinMod
 versions are named by v(year),(month,(day) 
 example __v026.12.28.5:52__  
 some versions may not have a time depending on how many versions were released that day  
+<hr>  
 
 ## __CREDITS__  
 this wouldn't be possible without  
@@ -30,11 +31,17 @@ this wouldn't be possible without
 • Credit:  FreshPenguin112 / https://github.com/FreshPenguin112   
 <hr>  
 
+## __USEFUL LINKS__  
+
+  <hr>  
+
 ## __MODDING GUIDE__  
 
   this game is super modable! take the pmp from [currentReleases](releases/currentRelease) and load it inside the penguinmod web editor https://studio.penguinmod.com/editor.html
   create a fork of the repo, inside the editor at the top of the block stack change the "repositoryOwner" and "repositoryName" variables link to your fork,  
   You can now directly change code in the editor or change config files in your fork to add custom crap!! :>  
+  <hr>  
+  
 
 
 
