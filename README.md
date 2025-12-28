@@ -1,7 +1,7 @@
 ## __OVERVIEW__  
   
 __!!! Project in works !!!__  
-a lot of this stuff is mainly placeholders and information may be wrong  
+a lot of this stuff is mainly placeholders and information may be wrong, this is also for getting familiar with git/github  
 
 this repository holds assets for zombiegame. (nanme will most likely be changed)
 the game is made with a game framework called penguinmod, penguinmod is fork of turbowarp which is a fork of scratch 3.0  
