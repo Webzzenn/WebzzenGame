@@ -3,6 +3,11 @@
 this repository holds assets for zombiegame. (nanme will most likely be changed)
 the game is made with a game framework called penguinmod, penguinmod is fork of turbowarp which is a fork of scratch 3.0  
 Scratch>Turbowarp>PenguinMod  
+
+versions are named by v(year),(month,(day) 
+example __v026.12.28__  
+if multiple versions are made on the same day then a time is added after the day  
+example __v026.12.28.5:52__
 <hr>  
 
 ## __CREDITS__  
