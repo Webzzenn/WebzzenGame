@@ -1,0 +1,10 @@
+{
+  "pistol": {
+    "fireRate": "0.5",
+    "ClipSize": "6"
+  },
+  "testGun":{
+        "fireRate": "0.1",
+    "ClipSize": "100"
+  }
+}
