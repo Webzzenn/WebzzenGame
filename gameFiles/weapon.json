@@ -1,0 +1,22 @@
+{"debugWeapon":{
+    "fireRate":1,
+    "maxClipSize":5,
+    "ammoAmountDepleatedOnFire":-1,
+    "singleFire":false,
+    "damage":5,
+    "damageLossPercentageDistanceScale":50,
+    "projectilesAmountCreatedOnFired":5,
+    "projectileSpreadAngle":30,
+    "projectileSpreadRandomness":2,
+    "projectileDistance":50,
+    "projectilePiercingTimes":0,
+    "projectilePiercingDamageLossScale":10,
+    "physicsObjectForceOnFired":0,
+    "keybindFireWeapon":0,
+    "keybindReloadWeapon":"r",
+    "weaponCostumeName":"gunsprite1",
+    "visualHeldInfrontBy":15,
+    "reloadingType":"individual",
+    "reloadingSpeed":5
+}
+}
