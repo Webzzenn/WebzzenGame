@@ -19,10 +19,12 @@
     "weaponCostumeName":"gunsprite1",
     "visualHeldInfrontBy":15,
     "reloadingType":"individual",
-    "reloadingSpeed":3.5
+    "reloadingSpeed":3.5,
+    "reloadingDelay":0.5
 }
 
 }
+
 
 
 
