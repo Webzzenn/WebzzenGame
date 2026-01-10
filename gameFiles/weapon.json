@@ -8,7 +8,7 @@
     "projectileType":"physical",
     "projectileTravelSpeed":300,
     "projectilesAmountCreatedOnFired":5,
-    "projectileSpreadAngle":35,
+    "projectileSpreadAngle":15,
     "projectileSpreadRandomness":10,
     "projectileDistance":50,
     "projectilePiercingTimes":0,
@@ -19,11 +19,12 @@
     "weaponCostumeName":"gunsprite1",
     "visualHeldInfrontBy":15,
     "reloadingType":"individual",
-    "reloadingSpeed":3.5,
+    "reloadingSpeed":2,
     "reloadingDelay":0.5
 }
 
 }
+
 
 
 
