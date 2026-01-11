@@ -1,5 +1,5 @@
 {"debugWeapon":{
-    "fireRate":0.7,
+    "fireRate":0.1,
     "maxClipSize":5,
     "ammoAmountDepleatedOnFire":-1,
     "singleFire":false,
@@ -8,7 +8,7 @@
     "projectileType":"physical",
     "projectileTravelSpeed":500,
     "projectilesAmountCreatedOnFired":5,
-    "projectileSpreadAngle":35,
+    "projectileSpreadAngle":5,
     "projectileSpreadRandomness":10,
     "projectileDistance":50,
     "projectilePiercingTimes":0,
@@ -20,10 +20,11 @@
     "visualHeldInfrontBy":15,
     "reloadingType":"individual",
     "reloadingSpeed":2,
-    "reloadingDelay":0.5
+    "reloadingDelay":1.2
 }
 
 }
+
 
 
 
