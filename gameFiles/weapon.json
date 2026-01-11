@@ -6,9 +6,9 @@
     "damage":5,
     "damageLossPercentageDistanceScale":50,
     "projectileType":"physical",
-    "projectileTravelSpeed":300,
-    "projectilesAmountCreatedOnFired":5,
-    "projectileSpreadAngle":15,
+    "projectileTravelSpeed":500,
+    "projectilesAmountCreatedOnFired":1,
+    "projectileSpreadAngle":1,
     "projectileSpreadRandomness":10,
     "projectileDistance":50,
     "projectilePiercingTimes":0,
@@ -24,6 +24,7 @@
 }
 
 }
+
 
 
 
