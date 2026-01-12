@@ -13,8 +13,8 @@
     "projectileDistance":50,
     "projectilePiercingTimes":1,
     "projectilePiercingDamageLossScale":10,
-    "physicsObjectForceOnFired":40,
-    "enemyObjectForceOnHit":60,
+    "physicsObjectForceOnFired":250,
+    "enemyObjectForceOnHit":400,
     "keybindFireWeapon":0,
     "keybindReloadWeapon":"r",
     "weaponCostumeName":"gunsprite1",
@@ -25,6 +25,7 @@
 }
 
 }
+
 
 
 
