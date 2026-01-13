@@ -1,5 +1,5 @@
 {"shotgun":{
-    "fireRate":0.5,
+    "fireRate":0.05,
     "maxClipSize":4,
     "ammoAmountDepleatedOnFire":-1,
     "singleFire":false,
@@ -25,6 +25,7 @@
 }
 
 }
+
 
 
 
