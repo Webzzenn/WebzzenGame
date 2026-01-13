@@ -1,37 +1,30 @@
-{"shotgun":{
-    "fireRate":0.05,
-    "maxClipSize":4,
-    "ammoAmountDepleatedOnFire":-1,
-    "singleFire":false,
-    "damage":3,
-    "damageLossPercentageDistanceScale":50,
-    "projectileType":"physical",
-    "projectileTravelSpeed":800,
-    "projectilesAmountCreatedOnFired":5,
-    "projectileSpreadAngle":22,
-    "projectileSpreadRandomness":10,
-    "projectileDistance":50,
-    "projectilePiercingTimes":0,
-    "projectilePiercingDamageLossScale":10,
-    "physicsObjectForceOnFired":-7000,
-    "enemyObjectForceOnHit":6000,
-    "keybindFireWeapon":0,
-    "keybindReloadWeapon":"r",
-    "weaponCostumeName":"gunsprite1",
-    "visualHeldInfrontBy":15,
-    "reloadingType":"individual",
-    "reloadingSpeed":2,
-    "reloadingDelay":1.2
+{
+  "shotgun": {
+    "weapon": {
+      "fireRate": 0.05,
+      "physicsObjectForceOnFired": -7000,
+      "maxClipSize": 4,
+      "ammoAmountDepletedOnFire": 1,
+      "singleFire": false,
+      "mousebindFireWeapon": 0,
+      "keybindReloadWeapon": "r",
+      "weaponCostumeName": "gunsprite1",
+      "visualHeldInfrontBy": 15,
+      "reloadingType": "individual",
+      "reloadingSpeed": 2,
+      "reloadingDelay": 1.2
+    },
+    "projectile": {
+      "type": "physical",
+      "travelSpeed": 800,
+      "damage": 3,
+      "damageLossPercentageDistanceScale": 50,
+      "projectilesCreatedAmountOnFired": 5,
+      "spreadAngle": 22,
+      "spreadRandomness": 10,
+      "piercingDamageLossScale": 10,
+      "piercingTimes": 0,
+      "enemyObjectForceOnHit": 6000
+    }
+  }
 }
-
-}
-
-
-
-
-
-
-
-
-
-
